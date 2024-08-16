@@ -18,7 +18,7 @@ main {
 }
 
 body {
-    background: url(../imagens/fundopreto.jpg) no-repeat top center;
+    background: url(../imagens/fundoroxo.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -28,7 +28,7 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
+    height: 626px;
     width: 311px;
     background: url(../imagens/iphone15.png) no-repeat;
 }

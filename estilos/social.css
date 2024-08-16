@@ -20,6 +20,7 @@ img {
 a {
     display: block;
     margin-top: -10px;
+    margin-bottom: 0px;
     background-color: rgb(39, 37, 37);
     padding: 20px;
     text-align: center;
